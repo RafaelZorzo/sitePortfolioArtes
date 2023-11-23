@@ -1,0 +1,24 @@
+h1.title1{
+color:rgb(0,204,204);
+font-family:symbol;	
+border:10px double;
+border-radius:10%;
+text-align:center;
+letter-spacing:3px;
+width:80%; 
+}
+p.enredo1{
+color:rgb(215,216,221);
+font-family:matura m7 script capitals;
+font-size:23px
+}
+p.note1{
+color:rgb(0,204,204);
+font-size:25px;
+font-family:matura m7 script capitals;
+}
+p.note2{
+color:rgb(0,204,204);
+font-size:25px;
+font-family:algerian;
+}
